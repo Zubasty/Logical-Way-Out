@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Glvn_menu.unity
+    guid: 73a085e325e98ad48ad28b67958a0501
+  - enabled: 1
+    path: Assets/Scenes/Obuch_or_Comp.unity
+    guid: efeb48841cd53a24dbb07eebfc0c1d47
+  - enabled: 1
+    path: Assets/Scenes/Obuch_menu.unity
+    guid: a90179192fd715e409a9fce5dc623dd4
+  - enabled: 1
+    path: Assets/Scenes/Game_menu.unity
+    guid: 5945c90332f9c984f8dd3c42c667fb70
+  - enabled: 1
+    path: Assets/Scenes/Obuch_lvl1.unity
+    guid: 039634e95ad3bf8409d28d64906e0038
+  - enabled: 1
+    path: Assets/Scenes/Obuch_lvl2.unity
+    guid: 689d15d9633667a42b7544583d9648ff
+  - enabled: 1
+    path: Assets/Scenes/Obuch_lvl3.unity
+    guid: 63107218e4e7a424aaa81db4464bd4d9
+  - enabled: 1
+    path: Assets/Scenes/Obuch_lvl4.unity
+    guid: bdd134acb8090934db4d861ecfcf0947
+  - enabled: 1
+    path: Assets/Scenes/Obuch_lvl5.unity
+    guid: 7f0b9c45eeb3ee34ea16a10ccf957c43
+  - enabled: 1
+    path: Assets/Scenes/Obuch_lvl6.unity
+    guid: 485448445697cfb45b6e32baa788951c
+  - enabled: 1
+    path: Assets/Scenes/Obuch_lvl7.unity
+    guid: 4934250e0c06ac2488b1c25b30f58353
+  - enabled: 1
+    path: Assets/Scenes/Obuch_lvl8.unity
+    guid: af99660d62b4b2048ae7576a7be0ea33
+  - enabled: 1
+    path: Assets/Scenes/Comp_lvl1.unity
+    guid: feec1af57745eda448b7e4bce8107847
+  - enabled: 1
+    path: Assets/Scenes/Comp_lvl2.unity
+    guid: 450452fad36de3f4391e43a7f9980146
+  - enabled: 1
+    path: Assets/Scenes/Comp_lvl3.unity
+    guid: d1a1a359601be8e4981bf242a7a571ca
+  - enabled: 1
+    path: Assets/Scenes/Comp_lvl4.unity
+    guid: e5ff7dca3577af54c96dd7d3a9e91a58
+  - enabled: 1
+    path: Assets/Scenes/Comp_lvl5.unity
+    guid: 10ee8b71fdced0848815ed982e00db38
+  - enabled: 1
+    path: Assets/Scenes/Comp_lvl6.unity
+    guid: 751d7b37d7de6c547965fe706d6d321c
+  - enabled: 1
+    path: Assets/Scenes/Comp_lvl7.unity
+    guid: 11dbe3d771699b249b44d5c63163b4a8
+  - enabled: 1
+    path: Assets/Scenes/Comp_lvl8.unity
+    guid: d30667cffb0085c46a896d390dfc8b79
+  m_configObjects: {}
